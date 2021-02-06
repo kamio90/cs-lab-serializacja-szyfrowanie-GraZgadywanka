@@ -14,6 +14,6 @@ namespace AppGraZaDuzoZaMaloCLI
         {
             (new KontrolerCLI()).Uruchom();
         }
-
+        
     }
 }
